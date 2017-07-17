@@ -1,7 +1,6 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/119/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-knowledge-118)
 [![Build Status](https://travis-ci.org/OCA/knowledge.svg?branch=9.0)](https://travis-ci.org/OCA/knowledge)
-[![Coverage Status](https://coveralls.io/repos/OCA/knowledge/badge.png?branch=9.0)](https://coveralls.io/r/OCA/knowledge?branch=9.0)
-[![Code Climate](https://codeclimate.com/github/OCA/knowledge/badges/gpa.svg)](https://codeclimate.com/github/OCA/knowledge)
+[![codecov](https://codecov.io/gh/OCA/knowledge/branch/9.0/graph/badge.svg)](https://codecov.io/gh/OCA/knowledge)
 
 Knowledge
 =========
@@ -14,13 +13,16 @@ Here you should find all community modules that:
 - provide access to knowledge/documents
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
 [document_page](document_page/) | 9.0.1.0.1 | Document Page
 [document_page_approval](document_page_approval/) | 9.0.1.0.0 | Document Page Approval
+[document_url](document_url/) | 9.0.2.0.1 | URL attachment
 [knowledge](knowledge/) | 9.0.1.1.0 | Knowledge Management System
+
 
 Unported addons
 ---------------
@@ -33,7 +35,6 @@ addon | version | summary
 [document_no_unique_filenames](document_no_unique_filenames/) | 8.0.1.0.0 (unported) | Drop the uniquness constraint on filenames for directories
 [document_page_multi_company](document_page_multi_company/) | 1.0 (unported) | Document Page Multi-Company
 [document_reindex](document_reindex/) | 8.0.1.0.0 (unported) | Reindex your already uploaded documents
-[document_url](document_url/) | 8.0.1.0.0 (unported) | URL attachment
 
 [//]: # (end addons)
 
