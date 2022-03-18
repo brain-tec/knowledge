@@ -19,11 +19,13 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[attachment_zipped_download](attachment_zipped_download/) | 14.0.1.0.0 |  | Attachment Zipped Download
 [document_page](document_page/) | 14.0.1.0.1 |  | Document Page
 [document_page_approval](document_page_approval/) | 14.0.1.0.0 |  | Document Page Approval
 [document_page_group](document_page_group/) | 14.0.1.0.0 |  | Define access groups on documents
 [document_page_project](document_page_project/) | 14.0.1.0.1 |  | This module links document pages to projects
 [document_page_reference](document_page_reference/) | 14.0.1.0.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Include references on document pages
+[document_page_tag](document_page_tag/) | 14.0.1.0.0 |  | Allows you to assign tags or keywords to pages and search for them afterwards
 [document_url](document_url/) | 14.0.1.1.0 |  | URL attachment
 [knowledge](knowledge/) | 14.0.1.1.0 |  | Knowledge
 
