@@ -174,7 +174,7 @@ msgstr ""
 
 #. module: document_page
 #: model_terms:ir.ui.view,arch_db:document_page.view_document_category_filter
-msgid "Document Category"
+msgid "Document History"
 msgstr ""
 
 #. module: document_page
@@ -282,11 +282,6 @@ msgid "If set, page is accessible only from this company"
 msgstr ""
 
 #. module: document_page
-#: model_terms:ir.ui.view,arch_db:document_page.view_wiki_form
-msgid "Information"
-msgstr ""
-
-#. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page__message_is_follower
 msgid "Is Follower"
 msgstr ""
@@ -344,6 +339,7 @@ msgstr ""
 
 #. module: document_page
 #: model_terms:ir.ui.view,arch_db:document_page.view_wiki_create_menu
+#: model_terms:ir.ui.view,arch_db:document_page.view_wiki_form
 msgid "Menu Information"
 msgstr ""
 
