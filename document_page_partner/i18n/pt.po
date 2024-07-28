@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* document_page_access_group
+# 	* document_page_partner
 #
 msgid ""
 msgstr ""
@@ -16,17 +16,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.6.2\n"
 
-#. module: document_page_access_group
-#: model:ir.model,name:document_page_access_group.model_document_page
+#. module: document_page_partner
+#: model:ir.model,name:document_page_partner.model_document_page
 msgid "Document Page"
-msgstr "Página do Documento"
+msgstr "Página do documento"
 
-#. module: document_page_access_group
-#: model:ir.model.fields,field_description:document_page_access_group.field_document_page__groups_id
-msgid "Groups"
-msgstr "Grupos"
-
-#. module: document_page_access_group
-#: model_terms:ir.ui.view,arch_db:document_page_access_group.document_page_access_group_view_wiki_form
-msgid "Security"
-msgstr "Segurança"
+#. module: document_page_partner
+#: model:ir.model.fields,field_description:document_page_partner.field_document_page__partner_id
+#: model_terms:ir.ui.view,arch_db:document_page_partner.view_wiki_filter
+msgid "Partner"
+msgstr "Parceiro"
