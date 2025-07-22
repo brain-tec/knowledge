@@ -32,6 +32,7 @@ addon | version | maintainers | summary
 [document_page_project](document_page_project/) | 16.0.1.0.0 |  | This module links document pages to projects
 [document_page_reference](document_page_reference/) | 16.0.1.0.1 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Include references on document pages
 [document_page_tag](document_page_tag/) | 16.0.1.0.1 |  | Allows you to assign tags or keywords to pages and search for them afterwards
+[document_page_tag_print_control](document_page_tag_print_control/) | 16.0.1.0.0 |  | Restricts document page printing based on assigned tags
 [document_url](document_url/) | 16.0.1.0.4 |  | URL attachment
 [document_url_google_drive](document_url_google_drive/) | 16.0.1.0.1 |  | Attach Google Drive link to Odoo document using Google Drive Picker
 
